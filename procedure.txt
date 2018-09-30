@@ -1,0 +1,15 @@
+
+1. try to take the ST_segment_.... and take the signal from the physiobank ATM(the signal that are taken from the PhysioBANK).
+
+2. The signal sampling rate are calculated below...
+
+ 
+
+
+The signal sampling freqency is 250 hz or (250 / samples)
+
+that means in 1 second there are 250 samples. or in 1 samples there are .004 seconds.
+
+we are taking 120 ms as the elevated ST segment(regarding to some references)
+
+   
